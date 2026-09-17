@@ -8,7 +8,9 @@
   <img alt="hi me" src="https://files.catbox.moe/34d0ak.png" />
 </picture>
 
-<img width="30" height="30" alt="Image" src="https://files.catbox.moe/87nall.png" /> [<img width="50" height="30" alt="Image" src="https://files.catbox.moe/o0ca4a.png" />](https://ramuinfook.straw.page/)ㅤㅤㅤㅤㅤㅤㅤㅤ [<img width="50" height="30" alt="Image" src="https://files.catbox.moe/0t5okl.png" />](https://wifiesh.atabook.org/) <img width="30" height="30" alt="Image" src="https://files.catbox.moe/bzy3hd.png" />
+<div align="center"
+  
+<img width="30" height="30" alt="Image" src="https://files.catbox.moe/87nall.png" /> [<img width="50" height="30" alt="Image" src="https://files.catbox.moe/o0ca4a.png" />](https://ramuinfook.straw.page/)ㅤㅤㅤㅤㅤㅤㅤㅤㅤ [<img width="50" height="30" alt="Image" src="https://files.catbox.moe/0t5okl.png" />](https://wifiesh.atabook.org/) <img width="30" height="30" alt="Image" src="https://files.catbox.moe/bzy3hd.png" />
 ㅤ
 | $\color{#8400E5}{\textsf{“ ♡ Mail}}$ $\color{#b4d44d}{\textsf{and Extra ”}}$ |
 | :---: |
