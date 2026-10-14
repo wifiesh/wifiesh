@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aliceemare&color=8400E5&label=wifiesland&style=plastic&base=10000)
 
-<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/891c33e5-60c7-4b08-907e-4571c421b1ca" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)"srcset="img width="100"https://files.catbox.moe/34d0ak.png" />
   <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/34d0ak.png" />
