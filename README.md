@@ -1,16 +1,16 @@
 <div align="center"
 
-![](https://komarev.com/ghpvc/?username=aliceemare&color=8400E5&label=wifiesland&style=plastic&base=10000)
+![](https://komarev.com/ghpvc/?username=aliceemare&color=D797DC&label=wifiesland&style=plastic&base=10000)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"srcset="img width="100"https://files.catbox.moe/34d0ak.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/34d0ak.png" />
-  <img alt="hi me" src="https://files.catbox.moe/34d0ak.png" />
+  <source media="(prefers-color-scheme: dark)"srcset="img width="100"https://github.com/user-attachments/assets/60a035e3-8e1e-49a5-aa57-4f7335076ed5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/60a035e3-8e1e-49a5-aa57-4f7335076ed5" />
+  <img alt="hi me" src="https://github.com/user-attachments/assets/60a035e3-8e1e-49a5-aa57-4f7335076ed5" />
 </picture>
 
 <div align="center"
   
-<img width="30" height="30" alt="Image" src="https://files.catbox.moe/87nall.png" /> [<img width="50" height="30" alt="Image" src="https://files.catbox.moe/z7s4f0.png" />](https://wifiesh.straw.page/)ㅤㅤㅤㅤㅤㅤㅤㅤㅤ [<img width="50" height="30" alt="Image" src="https://files.catbox.moe/0t5okl.png" />](https://wifiesh.atabook.org/) <img width="30" height="30" alt="Image" src="https://files.catbox.moe/bzy3hd.png" />
+[<img width="116" height="116" alt="Image" src="https://github.com/user-attachments/assets/0b70e67b-593a-4304-bc7e-84e3c73156c5" />](https://wifiesh.straw.page/)ㅤㅤㅤㅤㅤ[<img width="116" height="116" alt="Image" src="https://github.com/user-attachments/assets/76ae3347-71f1-4de3-b7f7-689c76f95585" />](https://wifiesh.atabook.org/)
 ㅤ
 | $\color{#8400E5}{\textsf{“ ♡ Mail}}$ $\color{#b4d44d}{\textsf{and Extra ”}}$ |
 | :---: |
