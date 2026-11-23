@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"srcset="img width="100"https://github.com/user-attachments/assets/015f5c63-eb3b-4fec-97d2-4c964822fbd5" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/015f5c63-eb3b-4fec-97d2-4c964822fbd5" />
-  <img alt="hi me" src="https://github.com/user-attachments/assets/015f5c63-eb3b-4fec-97d2-4c964822fbd5" />
+  <img alt="hi they're me" src="https://github.com/user-attachments/assets/015f5c63-eb3b-4fec-97d2-4c964822fbd5" />
 </picture>
 
 <div align="center"
