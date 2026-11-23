@@ -10,11 +10,11 @@
 
 <div align="center"
   
-[<img width="116" height="116" alt="Image" src="https://github.com/user-attachments/assets/0b70e67b-593a-4304-bc7e-84e3c73156c5" />](https://wifiesh.straw.page/)ㅤㅤㅤㅤㅤ[<img width="116" height="116" alt="Image" src="https://github.com/user-attachments/assets/76ae3347-71f1-4de3-b7f7-689c76f95585" />](https://wifiesh.atabook.org/)
+[<img width="116" height="116" alt="strawpage" src="https://github.com/user-attachments/assets/0b70e67b-593a-4304-bc7e-84e3c73156c5" />](https://wifiesh.straw.page/)ㅤㅤㅤㅤㅤ[<img width="116" height="116" alt="atabook" src="https://github.com/user-attachments/assets/76ae3347-71f1-4de3-b7f7-689c76f95585" />](https://wifiesh.atabook.org/)
 ㅤ
 | $\color{#D797DC}{\textsf{“ ♡ Mail}}$ $\color{#D2D999}{\textsf{and Extra ”}}$ |
 | :---: |
 | <details><summary><b><img width="20" height="20" alt="Image" src="https://files.catbox.moe/w9t3z6.gif" /></b></summary><br>[Rin](https://github.com/vatrinyasin)、[Mash](https://github.com/ENUMAELlSH)、[Mike](https://github.com/ch3shyre)、[Mapicc](https://github.com/maapicc)、[Lavie](https://github.com/LAVIEDOTOK)、[Zj](https://github.com/bastetngeb)、[Kuna](https://github.com/kunakunah)、[Surf](https://github.com/whatsahearrt)、[Jules](https://github.com/newestalbum)、Raya & the others from #kunalings hihi goats i love u guys aww imprisoning all of you tomorrow♡ ㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ ㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤhonorable mentions [Pain](https://github.com/thatoneskykid)  [Uni](https://github.com/7dusktildawn)| 
 | <details><summary><b><img width="20" height="20" alt="Image" src="https://files.catbox.moe/s72dia.gif" /></b></summary><br> wifies and parrotx2 heavy fictkins, doubles extreme iwec|
 
-<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/891c33e5-60c7-4b08-907e-4571c421b1ca" />
+<img width="800" height="450" alt="the wifies that I used to know" src="https://github.com/user-attachments/assets/891c33e5-60c7-4b08-907e-4571c421b1ca" />
